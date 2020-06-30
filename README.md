@@ -10,22 +10,22 @@ Coordinate activities of engineering or technical personnel involved in analyzin
 Fault cable and its cross-section:
 
 <p align="center">
-  <img src="https://github.com/Hafizuddin961/TNB-Intern/blob/master/image/cable2.jpg" width="350px" height="200px"/>
-  <img src="https://github.com/Hafizuddin961/TNB-Intern/blob/master/image/cable5.jpg" width="350px" height="200px"/>
+  <img src="https://github.com/Hafizuddin961/TNB-Intern/blob/master/image/cable2.jpg" width="450px" height="300px"/>
+  <img src="https://github.com/Hafizuddin961/TNB-Intern/blob/master/image/cable5.jpg" width="450px" height="300px"/>
 </p>
 
 Repairing and end result: 
 
 <p align="center">
   <img src="https://github.com/Hafizuddin961/TNB-Intern/blob/master/image/cable4.jpg" width="250px" height="350px"/>
-  <img src="https://github.com/Hafizuddin961/TNB-Intern/blob/master/image/cable.jpg" width="350px" height="200px"/>
+  <img src="https://github.com/Hafizuddin961/TNB-Intern/blob/master/image/cable.jpg" width="450px" height="300px"/>
 </p>
 
 ### Analyze problem cable overheat at main station (from transmission line 500kV/275kV/132kV to 33kV) :
 
 <p align="center">
-  <img src="https://github.com/Hafizuddin961/TNB-Intern/blob/master/image/mainstation%20(1).jpg" width="350px" height="200px"/>
-  <img src="https://github.com/Hafizuddin961/TNB-Intern/blob/master/image/mainstation%20(4).jpg" width="350px" height="200px"/>
+  <img src="https://github.com/Hafizuddin961/TNB-Intern/blob/master/image/mainstation%20(1).jpg" width="450px" height="300px"/>
+  <img src="https://github.com/Hafizuddin961/TNB-Intern/blob/master/image/mainstation%20(4).jpg" width="450px" height="300px"/>
   <img src="https://github.com/Hafizuddin961/TNB-Intern/blob/master/image/mainstation.jpg" width="250px" height="400px"/>
 </p>
 
@@ -34,7 +34,7 @@ Transformer and internal circuit of switchgear:
 
 <p align="center">
   <img src="https://github.com/Hafizuddin961/TNB-Intern/blob/master/image/transformer.jpg" width="250px" height="350px"/>
-  <img src="https://github.com/Hafizuddin961/TNB-Intern/blob/master/image/switchgear-circuit.jpg" width="350px" height="200px"/>
+  <img src="https://github.com/Hafizuddin961/TNB-Intern/blob/master/image/switchgear-circuit.jpg" width="450px" height="300px"/>
 </p>
 
 ### Maintenance for low-voltage (230V ~ 400V)
