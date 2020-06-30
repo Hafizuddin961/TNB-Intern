@@ -1,6 +1,9 @@
 # TNB-Intern
 My experience during internship at Tenaga Nasional Berhad (TNB) for 5 months. TNB is the largest electricity utility in Malaysia and a leading utility company in Asia
 
+# Work Summary
+Coordinate activities of engineering or technical personnel involved in analyzing fault, repair, maintaining and testing of various electrical high-voltage equipment from 230V to 33kV such as transformer, switchgear, high-voltage cable, meter, etc
+
 # Appendix
 
 ### Repair 33kV single-core cable :
